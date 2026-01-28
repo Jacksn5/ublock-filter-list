@@ -1,0 +1,613 @@
+! 5/28/2018, 9:59:05 AM https://www.netflix.com/browse
+www.netflix.com##.billboard-row
+
+! 5/28/2018, 10:02:17 AM https://old.reddit.com/r/all/
+old.reddit.com##.side
+
+! 5/29/2018, 6:25:44 PM https://old.reddit.com/r/all/
+old.reddit.com##.redesign-beta-optin
+
+! 5/30/2018, 6:15:24 PM https://old.reddit.com/r/all/
+old.reddit.com##.initialized.listing-chooser
+
+! 5/31/2018, 2:34:42 PM https://www.theverge.com/2018/5/30/17406182/california-senate-net-neutrality-vote
+www.theverge.com###privacy-consent
+
+! 5/31/2018, 6:19:06 PM https://www.foodora.at/en/restaurant/s1gf/weinschenke-1070
+www.foodora.at##.dish-menu-category-list
+
+! 6/1/2018, 4:10:35 PM https://old.reddit.com/r/iamverysmart/comments/8nphx6/you_couldnt_recognize_that_your_nephew_is_2/
+old.reddit.com##div.anchor-bottom-right.author-tooltip_common.hover-bubble.author-tooltip
+
+! 6/1/2018, 4:10:47 PM https://old.reddit.com/r/iamverysmart/comments/8nphx6/you_couldnt_recognize_that_your_nephew_is_2/
+old.reddit.com##.anchor-top-right.author-tooltip_common.hover-bubble.author-tooltip
+
+! 6/1/2018, 4:11:11 PM https://old.reddit.com/r/iamverysmart/comments/8nphx6/you_couldnt_recognize_that_your_nephew_is_2/
+old.reddit.com##.anchor-top-right.author-tooltip_common.hover-bubble.author-tooltip
+
+! 6/1/2018, 4:11:46 PM https://old.reddit.com/r/iamverysmart/comments/8nphx6/you_couldnt_recognize_that_your_nephew_is_2/
+old.reddit.com##div.anchor-top-left.author-tooltip_common.hover-bubble.author-tooltip
+
+! 6/1/2018, 4:12:10 PM https://old.reddit.com/r/iamverysmart/comments/8nphx6/you_couldnt_recognize_that_your_nephew_is_2/
+old.reddit.com##div.anchor-top-left.author-tooltip_common.hover-bubble.author-tooltip
+
+! 6/3/2018, 3:01:50 PM https://www.reddit.com/r/pics/comments/7v64dy/8_months_after_my_last_round_of_chemo_for_brain/
+www.reddit.com##.side
+
+! 6/3/2018, 6:26:44 PM https://www.vox.com/2018/6/3/17421300/trumps-interview-subpoena
+www.vox.com###privacy-consent
+
+! 6/3/2018, 7:33:37 PM https://www.foodora.at/restaurant/s1gf/weinschenke-1070
+www.foodora.at##.postal-index-form-overlay--shown.redesign-vendor-info.hero-banner-wrapper
+
+! 6/7/2018, 1:09:37 AM https://np.reddit.com/r/watchpeoplesurvive/comments/6jzbhk/female_kurdish_sniper_in_the_battlefield/
+np.reddit.com##.side
+
+! 6/8/2018, 1:04:10 PM https://www.washingtonpost.com/world/europe/austria-to-close-7-mosques-expel-imams-in-crackdown/2018/06/08/f9aaa652-6aea-11e8-a335-c4503d041eaf_story.html?noredirect=on&utm_term=.210e5b4c3594
+www.washingtonpost.com###article-full-width-content
+
+! 6/9/2018, 1:22:13 AM https://www.eater.com/2013/8/19/6385655/heres-anthony-bourdains-foreword-to-marilyn-hagertys-book-grand-forks
+www.eater.com###privacy-consent
+
+! 6/13/2018, 9:47:00 AM https://www.bostonglobe.com/lifestyle/names/2018/06/12/rudy-giuliani-accused-affair-with-married-hospital-administrator/ItPp5R3iTNa8rRuixfnLVL/story.html
+www.bostonglobe.com##.meter-social-connect--visible.meter-social-connect
+
+! 6/14/2018, 2:19:44 AM http://www.newsweek.com/fox-news-trump-kim-obama-975441
+www.newsweek.com###didomi-host
+
+! 6/14/2018, 3:54:47 AM https://www.seattletimes.com/nation-world/ownership-of-750-pound-372-million-emerald-may-finally-be-settled/
+www.seattletimes.com##.modals
+
+! 6/14/2018, 4:30:41 PM https://kdb.diakonie.at/
+kdb.diakonie.at###admin-menu-search
+
+! 6/14/2018, 8:28:32 PM https://www.swoodoo.at/flights/SFO,nearby-VIE,nearby/2018-09-04/2adults?sort=price_a
+www.swoodoo.at###Xt9L-dialog
+
+! 6/17/2018, 12:32:03 AM https://imgur.com/a/fpnNW
+imgur.com##.animation-finished.animate.fixed.post-header
+
+! 6/20/2018, 10:52:51 AM https://www.thedailybeast.com/lewandowski-on-girl-with-down-syndrome-separated-from-mother-womp-womp
+www.thedailybeast.com###optanon
+
+! 6/20/2018, 10:53:02 AM https://www.thedailybeast.com/lewandowski-on-girl-with-down-syndrome-separated-from-mother-womp-womp
+www.thedailybeast.com##.optanon-alert-box-wrapper
+
+! 6/25/2018, 10:51:20 AM https://kdb-dev.diakonie.at/diakonie/eve/10101567
+kdb-dev.diakonie.at###admin-menu-search
+
+! 6/25/2018, 3:28:53 PM https://www.washingtonpost.com/
+www.washingtonpost.com###wp_Signin
+
+! 6/25/2018, 3:29:01 PM https://www.washingtonpost.com/
+www.washingtonpost.com##.wp_signin
+
+! 7/1/2018, 2:23:26 PM https://www.chron.com/news/politics/texas/article/Beto-O-Rourke-is-within-5-points-of-Ted-Cruz-in-13025246.php
+www.chron.com###gdpr-modal
+
+! 7/11/2018, 10:43:17 PM https://old.reddit.com/r/PoliticalHumor/comments/8xzt49/he_is_a_fucking_idiot/
+old.reddit.com##.comment-visits-box.gold-accent.rounded
+
+! 9/14/2018, 7:06:17 PM https://www.foodora.at/restaurant/s2zx/swing-kitchen-josefstadterstrasse
+www.foodora.at##.top-flood-banner-container
+
+! 9/18/2018, 1:11:10 AM https://fireemblem.gamepress.gg/heroes
+fireemblem.gamepress.gg###site-banner
+
+! 9/18/2018, 1:59:47 AM https://fireemblem.gamepress.gg/inheritance-tier-list
+fireemblem.gamepress.gg##.gamepress-top
+
+! 9/19/2018, 9:32:59 AM https://fireemblem.gamepress.gg/sacred-seal/quickened-pulse
+fireemblem.gamepress.gg###block-320x50-top
+
+! 9/19/2018, 9:33:18 AM https://fireemblem.gamepress.gg/sacred-seal/quickened-pulse
+fireemblem.gamepress.gg###socail-media-links
+
+! 10/6/2018, 5:07:24 PM https://old.reddit.com/r/all/
+old.reddit.com##.side
+
+! 10/11/2018, 12:17:03 PM https://pocketmortys.net/mortys
+pocketmortys.net##div.sidebarbground
+
+! 10/25/2018, 6:23:53 PM https://www.dallasnews.com/opinion/editorials/2018/10/25/recommend-beto-orourke-us-senate
+www.dallasnews.com###courier-iframe
+
+! 11/15/2018, 3:49:36 PM https://www.mmorpg.com/games-list/show/all/sCol/estimatedRelease/sOrder/desc
+www.mmorpg.com###CybotCookiebotDialog
+
+! 11/22/2018, 3:42:52 PM https://www.huffpost.com/entry/wendys-wingstop-rap-battle_n_59d504cde4b0218923e7018e
+www.huffpost.com###entry-header
+
+! 12/2/2018, 1:10:09 AM https://www.space.com/11115-japan-earthquake-shortened-earth-days.html
+www.space.com###ec-modal
+
+! 12/16/2018, 2:59:08 PM http://www.arenajunkies.com/topic/26574-shaman-best-race/
+www.arenajunkies.com##body > div:nth-of-type(1)
+
+! 1/2/2019, 5:53:42 PM https://www.foodora.at/
+www.foodora.at##.top-banner-container
+
+! 1/30/2019 https://www.reddit.com
+www.reddit.com##.initialized.listing-chooser
+
+! 2/16/2019 https://www.netflix.com
+www.netflix.com##.info.message
+www.netflix.com###\38 1006261
+
+! 2/20/2019 https://de.wikipedia.org
+de.wikipedia.org###centralNotice
+
+! 3/1/2019 https://en.wikipedia.org
+en.wikipedia.org###frb-inline
+
+! 3/2/2019 https://www.independent.co.uk
+www.independent.co.uk###footerPrompt
+
+! 3/6/2019 https://www.ign.com
+www.ign.com##.leaflet-control-container
+
+! 3/10/2019 https://www.mercurynews.com
+www.mercurynews.com##.x-editable-css-bg.bg4.centered.text-center.Mg2-bg-white.body.width-800
+
+! 3/29/2019 https://www.polygon.com
+www.polygon.com##.adblock-whitelist-messaging__article-wrapper
+
+! 4/4/2019 https://old.reddit.com
+old.reddit.com##.listingsignupbar.infobar
+
+! 4/4/2019 https://www.reddit.com
+www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
+
+! 4/7/2019 https://old.reddit.com
+old.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+old.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
+
+! 4/7/2019 https://www.reddit.com
+www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+
+! 5/4/2019 https://en.wikipedia.org
+en.wikipedia.org###siteNotice
+
+! 5/7/2019 https://www.motherjones.com
+www.motherjones.com###adblock-message
+
+
+! 6/19/2018, 12:12:44 PM https://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript
+stackoverflow.com###js-gdpr-consent-banner
+
+! 6/19/2018, 12:12:57 PM https://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript
+stackoverflow.com##.js-dismissable-hero._fixed.hero-container.old-hero
+
+! 6/19/2018, 12:13:13 PM https://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript
+stackoverflow.com##.top-bar__network._fixed.js-top-bar.top-bar
+
+! 6/20/2018, 6:17:53 PM https://stackoverflow.com/questions/4329697/conditionally-assigning-php-values
+stackoverflow.com###noscript-warning
+
+! 7/6/2018, 3:03:56 PM https://www.reddit.com/r/all/
+www.reddit.com##.side
+
+! 8/16/2018, 8:27:14 PM https://www.netflix.com/browse
+www.netflix.com##.billboard-row
+
+! 3/13/2019 https://www.pandora.com
+www.pandora.com##.Tuner__Audio__Control__ThumbUp.Tuner__Control__ThumbUp.Tuner__Control
+www.pandora.com##.SessionHistory__ThumbUpButton.ThumbUpButton.TunerControl
+www.pandora.com##.OverlayWrapper__OverlayContainer
+
+! 3/15/2019 https://www.pandora.com
+www.pandora.com##.region-topBar--rightRail.region-topBar
+www.pandora.com##.NowPlayingTopInfoStationName
+www.pandora.com##.NowPlayingTopInfoStationName
+www.pandora.com##.NowPlayingTopInfoStationName
+
+! 5/9/2019 https://www.pandora.com
+www.pandora.com##.DiscoveryTuner--modesClosed.DiscoveryTuner--dark.DiscoveryTuner
+
+! 5/12/2019 https://garfield.com
+garfield.com##.overlay
+
+! 5/18/2019 https://www.pandora.com
+www.pandora.com##.NowPlayingTopInfoSessionName
+
+! 6/11/2019 https://www.lieferservice.at
+www.lieferservice.at##.subheader
+
+! 7/22/2019 https://boardgamegeek.com
+boardgamegeek.com##td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
+
+! 7/24/2019 https://old.reddit.com
+old.reddit.com##.footer-parent
+old.reddit.com##.debuginfo
+
+! 8/26/2019 https://www.curseforge.com
+www.curseforge.com##.sm\:h-20.h-30.relative.author-upsell.rounded.justify-between.items-center.flex.upsell
+
+! 8/30/2019 https://classicwow.live
+classicwow.live##.drag-target
+classicwow.live##.cwl-header.page-header
+classicwow.live##.page-footer
+
+
+! https://www.reddit.com/r/uBlockOrigin/comments/byoh79/pandora_advertisements_showing_up_again/eqn8yif?utm_source=share&utm_medium=web2x
+!https://www.pandora.com/api/v1/ad/getAdList
+!https://www.pandora.com/api/v1/ad/registerImpression
+
+! 19.3.2019 https://www.pandora.com
+www.pandora.com##.region-topBar--rightRail.region-topBar
+www.pandora.com##.DisplayAdController--active.DisplayAdController
+!www.pandora.com##.region-overlay
+
+! 22.3.2019 https://www.pandora.com
+www.pandora.com##.NowPlayingTopInfoStationName
+www.pandora.com##.OverlayWrapper__OverlayContainer
+
+! 3/29/2019 https://www.ueg.eu
+ueg.eu##.cc_banner-wrapper
+
+! 4/9/2019 https://www.facebook.com
+www.facebook.com###pagelet_growth_expanding_cta
+
+! 4/9/2019 https://www.ueg.eu
+www.ueg.eu###widget-main-1889 > .row-fluid > div.row-fluid:nth-of-type(2)
+dev.ueg.eu###widget-main-1867 > .row-fluid > div.row-fluid:nth-of-type(2)
+
+! 4/9/2019 https://en.wikipedia.org
+en.wikipedia.org###frb-inline
+en.wikipedia.org###frb-nag
+
+
+! 6/19/2018, 12:12:44 PM https://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript
+stackoverflow.com###js-gdpr-consent-banner
+
+! 6/19/2018, 12:12:57 PM https://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript
+stackoverflow.com##.js-dismissable-hero._fixed.hero-container.old-hero
+
+! 6/19/2018, 12:13:13 PM https://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript
+stackoverflow.com##.top-bar__network._fixed.js-top-bar.top-bar
+
+! 6/20/2018, 6:17:53 PM https://stackoverflow.com/questions/4329697/conditionally-assigning-php-values
+stackoverflow.com###noscript-warning
+
+! 7/6/2018, 3:03:56 PM https://www.reddit.com/r/all/
+www.reddit.com##.side
+
+! 8/16/2018, 8:27:14 PM https://www.netflix.com/browse
+www.netflix.com##.billboard-row
+
+! 3/13/2019 https://www.pandora.com
+www.pandora.com##.Tuner__Audio__Control__ThumbUp.Tuner__Control__ThumbUp.Tuner__Control
+www.pandora.com##.SessionHistory__ThumbUpButton.ThumbUpButton.TunerControl
+
+! 3/15/2019 https://www.pandora.com
+www.pandora.com##.region-topBar--rightRail.region-topBar
+www.pandora.com##.NowPlayingTopInfoStationName
+
+! 4/12/2019 https://www.pandora.com
+www.pandora.com##.DiscoveryTuner--modesClosed.DiscoveryTuner--dark.DiscoveryTuner
+
+! 4/19/2019 https://hub.docker.com
+hub.docker.com###wootric-modal
+hub.docker.com##.styles__wrapper___EX-Nj
+
+! 5/7/2019 https://superuser.com
+
+! 5/7/2019 https://askubuntu.com
+###js-gdpr-consent-banner
+##.js-dismissable-hero.s-hero__dark.s-hero
+
+! 5/7/2019 https://www.oedg.at
+www.oedg.at###cookiehinweis
+
+! 5/17/2019 https://www.pandora.com
+www.pandora.com##.NowPlayingTopInfoSessionName
+
+! 5/17/2019 https://itnext.io
+itnext.io##.js-stickyFooter.u-xs-hide.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-width100pct.u-bottom0.u-fixed
+
+! 5/23/2019 http://www.sql-join.com
+www.sql-join.com##.pipeline-cta-container
+
+! 5/23/2019 https://www.dcode.fr
+www.dcode.fr###o524
+
+! 6/3/2019 http://uegedudev18.koerbler.com
+uegedudev18.koerbler.com##.wrapper-preview-menu
+
+! 6/25/2019 https://courses.ueg.eu
+courses.ueg.eu##.wrapper-preview-menu
+
+! 6/26/2019 https://gamefaqs.gamespot.com
+gamefaqs.gamespot.com###_evidon_banner
+
+! 8/1/2019 https://www.ablebits.com
+www.ablebits.com###common-floatbanner-big
+
+! 8/12/2019 https://askubuntu.com
+askubuntu.com##.js-dismissable-hero.ps-relative.sm\:pb24.sm\:pt24.fc-black-200.bg-black-700.py48
+
+! 9/9/2019 https://www.pandora.com
+www.pandora.com##.Button--icon-wrapper.Button
+
+! 9/16/2019 https://unix.stackexchange.com
+unix.stackexchange.com##.js-dismissable-hero.ps-relative.sm\:pb24.sm\:pt24.fc-black-200.bg-black-700.py48
+
+! 10/31/2019 https://classicwow.live
+classicwow.live##header
+
+! 1/1/2020 https://evertale-en.fandom.com
+evertale-en.fandom.com###WikiaRailWrapper
+
+! 1/26/2020 https://www.reddit.com
+www.reddit.com##.loggedin.may-blank.self.invisible-when-pinned.thumbnail
+www.reddit.com###thing_t3_b3lpwo > .unvoted.midcol
+
+! 5/14/2020 https://tallycounterstore.com
+tallycounterstore.com##.centerElement.fullsize.resetCount
+
+! 5/31/2020 https://raidreset.com
+raidreset.com##div.row:nth-of-type(1)
+raidreset.com##h2:nth-of-type(1)
+raidreset.com##h1
+raidreset.com##h2:nth-of-type(2)
+
+! 6/21/2020 https://twitter.com
+twitter.com##.r-184en5c.r-ipm5af.r-zchlnj.r-u8s1d.r-1d2f490
+
+! 2020-08-27 https://tabs.ultimate-guitar.com
+tabs.ultimate-guitar.com##._1EK-j
+
+! 2020-11-16 https://geizhals.at
+geizhals.at##.variant__header__dropdown
+
+! 2020-11-16 https://www.newegg.com
+www.newegg.com##.modal
+www.newegg.com##.modal-backdrop
+
+! 2021-02-22 https://www.cnbc.com
+www.cnbc.com###onetrust-consent-sdk
+
+! 2021-02-24 https://www.cbsnews.com
+www.cbsnews.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2021-04-21 https://ffxivteamcraft.com
+ffxivteamcraft.com##.ng-star-inserted.patreon-button
+
+! 2021-04-29 http://ffxiv.morpheusz.com
+ffxiv.morpheusz.com##center > [src]
+
+! 2021-04-29 https://www.diepresse.com
+www.diepresse.com##.vued--premium-content.vued.full-width
+
+! 2021-04-29 https://universalis.app
+universalis.app##.highchart
+universalis.app##h6
+
+! 2021-11-01 https://www.wow-professions.com
+www.wow-professions.com##.hidden-xs.col-sm-3
+
+! 2021-12-30 https://1fichier.com
+||img.1fichier.com/ui/ui-bg_diagonals-thick_20_666666_40x40.png$image
+||img.1fichier.com/ui/ui-bg_diagonals-thick_20_666666_40x40.png$image
+||img.1fichier.com/ui/ui-bg_diagonals-thick_20_666666_40x40.png$image
+||img.1fichier.com/ui/ui-bg_diagonals-thick_20_666666_40x40.png$image
+1fichier.com##.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
+1fichier.com##.ui-front.ui-widget-overlay
+1fichier.com###header > .ct_warn
+1fichier.com##span.spacer-20.spacer
+1fichier.com##div.ct_warn:nth-of-type(1)
+
+! 2021-12-30 https://www.ziperto.com
+www.ziperto.com##.entry-inner > ul:nth-of-type(1)
+
+! 2024-04-03 https://tvthek.orf.at
+tvthek.orf.at##.hbgusc.sc-lcIPJg
+
+! 2023-03-25 https://www.noen.at
+www.noen.at##.werbetorial.ad.extra-grid-container-1.extra-grid-container
+
+! 2024-01-29 https://faloop.app
+faloop.app##.me-2.ms-1.my-1.btn-primary.btn-sm.btn
+
+
+youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
+youtube.com##ytd-mini-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-mini-guide-entry-renderer)
+youtube.com##ytd-browse[page-subtype="home"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-rich-item-renderer)
+youtube.com##ytd-browse[page-subtype="subscriptions"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-grid-video-renderer,ytd-rich-item-renderer)
+youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-item-section-renderer)
+youtube.com##ytd-watch-next-secondary-results-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-compact-video-renderer,ytd-shelf-renderer)
+youtube.com##ytd-browse[page-subtype="trending"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+youtube.com##ytd-notification-renderer:has(> a[href^="/shorts/"])
+youtube.com##ytd-rich-shelf-renderer[is-shorts]
+youtube.com##ytd-rich-shelf-renderer[is-shorts].ytd-rich-section-renderer:upward(ytd-rich-section-renderer)
+youtube.com##ytd-reel-shelf-renderer
+youtube.com##ytm-reel-shelf-renderer
+youtube.com##ytm-pivot-bar-renderer div.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
+youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-video-with-context-renderer)
+youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer)
+youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
+youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+! 2024-02-06 https://www.icy-veins.com
+www.icy-veins.com###right
+
+! 2024-02-10 https://ffxivteamcraft.com
+ffxivteamcraft.com##.ng-star-inserted.support-button
+
+! 2024-02-21 https://www.icy-veins.com
+www.icy-veins.com###premium_splash_page_container
+
+! 2024-02-25 https://faloop.app
+faloop.app##.cursor-default.fw-bold.text-light.border-secondary.border-top.bg-dark.align-items-center.d-md-flex.d-none.Footer_desktop__GMamh > .text-center.flex-grow-1
+
+! 2024-03-05 https://ffxiv.consolegameswiki.com
+ffxiv.consolegameswiki.com###mw-panel
+
+! 2024-03-10 https://ffxivgillionaire.com
+||ffxivgillionaire.com/wp-content/uploads/*.png$image
+
+!*/ 2024-04-08 https://old.reddit.com
+old.reddit.com###alert_message_background
+old.reddit.com###alert_message
+
+sh.reddit.com##span:has-text(/^r/Genshin_Impact/):upward(.w-full)
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/2007scape"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/apexlegends"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CelticFC"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CoDCompetitive"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Cricket"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CricketShitpost"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CryptoCurrency"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/DeepRockGalactic"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/destiny2"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/DestinyTheGame"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/dndmemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/dogelore"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/DuggarsSnark"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Eldar"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Eldenring"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/FantasyPL"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/FIFA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/formula1"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/formuladank"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/FortNite"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/funny"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Funnymemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Genshin_Impact"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/GME"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/GMEJungle"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Grimdank"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/gtaonline"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Gunners"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Hammers"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HilariaBaldwin"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HollowKnight"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/hololive"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HonkaiStarRail"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HonkaiStarRail_leaks"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ksi"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LeagueOfMemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LeedsUnited"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/lewishamilton"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LiverpoolFC"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LivestreamFail"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MadeMeSmile"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MakeMeSuffer"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ManchesterUnited"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Mavericks"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MMA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MoldyMemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/nba"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/OnePiece"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/PewdiepieSubmissions"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/popculturechat"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/PremierLeague"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/raimimemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/reddevils"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/RocketLeague"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/RPClipsGTA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/rugbyunion"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ScottishFootball"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/shitposting"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/soccercirclejerk"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/sports"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/SquaredCircle"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/StockMarket"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Superstonk"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Terraria"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/tifu"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/titanfall"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ToiletPaperUSA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/TrueSTL"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ufc"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/wallstreetbets"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Warframe"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/whenthe"])
+
+
+! 31 Dec 2024 https://ratemyserver.net
+ratemyserver.net###top_navbar
+ratemyserver.net##.logo
+ratemyserver.net##center > table > tbody > tr:nth-of-type(1) > td
+ratemyserver.net##.g_adslot_rect.adsbygoogle
+ratemyserver.net###aswift_0
+ratemyserver.net##.main_block > div:nth-of-type(3):has(a[rel="nofollow"])
+
+! 1 Jan 2025 https://uaro.net
+www.uaro.net##.header-style
+www.uaro.net###sidebar
+www.uaro.net###loginbox:has-text("currently logged in")
+www.uaro.net###submenu
+www.uaro.net##td:nth-of-type(1)
+www.uaro.net###copyright
+www.uaro.net##th:nth-of-type(1)
+www.uaro.net###content > tbody > tr:nth-of-type(1)
+www.uaro.net###content > tbody > tr:nth-of-type(3)
+www.uaro.net##.not-applicable
+www.uaro.net##h2
+
+! 1 Jan 2025 https://old.reddit.com
+old.reddit.com##.infobar-toaster-container
+
+! 21 Jan 2025 https://mvp-ro.com
+mvp-ro.com##.MvpTracker__TrackerLogs__Fcih5
+
+! 25 Jan 2025 https://rocalc.com
+rocalc.com##div.main > table > tbody > tr > .data:has-text("Changelog")
+rocalc.com##h1
+rocalc.com##h2
+rocalc.com##p
+
+! 28 Jan 2025 https://time.is
+time.is###attention
+
+! 4 Feb 2025 https://edition.cnn.com
+||accounts.google.com/gsi/iframe/select$subdocument
+
+! 27 Mar 2025 http://www.rpg-oase.de
+||www.rpg-oase.de/bilder/menu/RPG_11.jpg$image
+www.rpg-oase.de##body > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td
+www.rpg-oase.de##body > table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(1)
+
+! 31 Mar 2025 https://lotro.allakhazam.com
+lotro.allakhazam.com##.zaf-desktop-sticky-bottom-center
+
+! 7 May 2025 https://preisrunter.at
+preisrunter.at##tr:has(td center span)
+preisrunter.at##div.rounded-element:has(div center span:has-text(Werbung))
+
+! 6 Aug 2025 https://www.kayak.de
+www.kayak.de##.ev1_-disable-rr-ad.ev1_-right-rail
+
+! 27 Aug 2025 https://open.spotify.com
+open.spotify.com##iframe
+open.spotify.com##div.ReactModalPortal
+
+
+! 24.09.2025 https://www.instagram.com
+www.instagram.com##._acum
+
+! 08.10.2025 https://chatgpt.com
+chatgpt.com##div.absolute:has(button:has-text(Upgrade for free))
+chatgpt.com##div.absolute:has(button:has-text(Get Plus))
+chatgpt.com##div.trailing:has(button[aria-label*="Upgrade"])
+chatgpt.com##.sm\:block.text-center.hidden.mb-7
+
+! 15.10.2025 https://web.whatsapp.com
+web.whatsapp.com##div:has(> span > button[aria-label*="Status"])
+web.whatsapp.com##div:has(> span > button[aria-label="Channels"])
+web.whatsapp.com##div:has(> span > button[aria-label="Communities"])
+
+! 22 Oct 2025 https://www.wow-petopia.com
+www.wow-petopia.com###adBannerLeft
+www.wow-petopia.com###adBannerRight
+
+! 18 Dec 2025 https://ic.byteglow.com
+ic.byteglow.com##.css-mdxxxv.MuiAlert-standard.MuiAlert-standardInfo.MuiAlert-colorInfo.MuiAlert-root.MuiPaper-elevation0.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root
+
+! 15 Jan 2026 https://www.kayak.de
+www.kayak.de##.jOjv
+
