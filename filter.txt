@@ -614,3 +614,114 @@ ic.byteglow.com##.css-mdxxxv.MuiAlert-standard.MuiAlert-standardInfo.MuiAlert-co
 ! 15 Jan 2026 https://www.kayak.de
 www.kayak.de##.jOjv
 
+! 2024-04-18 https://m.youtube.com
+m.youtube.com##.modern-typography.item
+
+*$csp=manifest-src 'none'
+
+com,org,net#^link[rel="manifest"]
+
+! 2024-04-22 https://sh.reddit.com
+sh.reddit.com##alert-controller
+sh.reddit.com###right-sidebar-container
+sh.reddit.com###create-post
+sh.reddit.com##.px-2xs.relative
+sh.reddit.com##comment-composer-host
+
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/2007scape"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/apexlegends"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CelticFC"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CoDCompetitive"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Cricket"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CricketShitpost"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/CryptoCurrency"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/DeepRockGalactic"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/destiny2"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/DestinyTheGame"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/dndmemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/dogelore"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/DuggarsSnark"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Eldar"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Eldenring"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/FantasyPL"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/FIFA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/formula1"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/formuladank"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/FortNite"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/funny"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Funnymemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Genshin_Impact"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/GME"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/GMEJungle"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Grimdank"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/gtaonline"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Gunners"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Hammers"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HilariaBaldwin"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HollowKnight"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/hololive"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HonkaiStarRail"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/HonkaiStarRail_leaks"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ksi"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LeagueOfMemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LeedsUnited"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/lewishamilton"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LiverpoolFC"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/LivestreamFail"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MadeMeSmile"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MakeMeSuffer"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ManchesterUnited"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Mavericks"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MMA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/MoldyMemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/nba"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/OnePiece"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/PewdiepieSubmissions"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/popculturechat"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/PremierLeague"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/raimimemes"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/reddevils"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/RocketLeague"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/RPClipsGTA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/rugbyunion"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ScottishFootball"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/shitposting"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/soccercirclejerk"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/sports"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/SquaredCircle"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/StockMarket"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Superstonk"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Terraria"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/tifu"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/titanfall"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ToiletPaperUSA"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/TrueSTL"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/ufc"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/wallstreetbets"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/Warframe"])
+sh.reddit.com##article:has(shreddit-post[subreddit-prefixed-name="r/whenthe"])
+
+! Jul 24, 2024 https://www.reddit.com
+www.reddit.com##.pt-\[var\(--page-y-padding\)\].v2.overflow-visible > shreddit-async-loader:nth-of-type(2)
+
+! Dec 21, 2024 https://www.kayak.de
+www.kayak.de##.vM9_-mobile-omnibus
+www.kayak.de##.c_Ny2
+
+! Feb 25, 2025 https://sh.reddit.com
+
+sh.reddit.com##body > div
+
+! Mar 19, 2025 https://sh.reddit.com
+sh.reddit.com##.z-\[100\].justify-end
+
+! Mar 20, 2025 https://www.reddit.com
+www.reddit.com##.z-\[100\].justify-end
+
+! Mar 21, 2025 https://sh.reddit.com
+sh.reddit.com###blocking-modal
+
+! Apr 7, 2025 https://www.reservationday.com
+www.reservationday.com##.mui-10mtivk.MuiBox-root.AtlasPromoBanner-root
+
+
