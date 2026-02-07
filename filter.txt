@@ -596,8 +596,11 @@ www.instagram.com##._acum
 ! 08.10.2025 https://chatgpt.com
 chatgpt.com##div.absolute:has(button:has-text(Upgrade for free))
 chatgpt.com##div.absolute:has(button:has-text(Get Plus))
+chatgpt.com##div.absolute:has(button:has-text(Free Gift))
+chatgpt.com##.lg\:block.hidden
 chatgpt.com##div.trailing:has(button[aria-label*="Upgrade"])
 chatgpt.com##.sm\:block.text-center.hidden.mb-7
+chatgpt.com##.sm\:block.text-center.hidden.mb-\[40px\]
 
 ! 15.10.2025 https://web.whatsapp.com
 web.whatsapp.com##div:has(> span > button[aria-label*="Status"])
