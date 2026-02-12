@@ -743,6 +743,13 @@ carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-t
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(mediamart))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(wefixit.sg))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(sg.lobangking))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(lobangsqueensg))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(graciousmart))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(isellcarshades))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(citrimobilesg))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(xinfurnishing))
+
+
 
 
 
