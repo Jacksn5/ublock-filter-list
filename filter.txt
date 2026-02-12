@@ -741,6 +741,8 @@ carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-t
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(suninfotec34173))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(kennykeong))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(mediamart))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(wefixit.sg))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(sg.lobangking))
 
 
 
