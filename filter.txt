@@ -727,4 +727,10 @@ sh.reddit.com###blocking-modal
 ! Apr 7, 2025 https://www.reservationday.com
 www.reservationday.com##.mui-10mtivk.MuiBox-root.AtlasPromoBanner-root
 
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(CreationsFurniture))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(leinfotech))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(shiningpc))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(game.onz))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(define.pc))
+
 
