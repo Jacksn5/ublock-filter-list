@@ -732,5 +732,15 @@ carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-t
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(shiningpc))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(game.onz))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(define.pc))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(quality.tech))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(lelongfactory))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(ezshopcare))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(pckaki.sg))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(hddware))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(vv_lab))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(suninfotec34173))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(kennykeong))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(mediamart))
+
 
 
