@@ -727,6 +727,9 @@ sh.reddit.com###blocking-modal
 ! Apr 7, 2025 https://www.reservationday.com
 www.reservationday.com##.mui-10mtivk.MuiBox-root.AtlasPromoBanner-root
 
+! promoted content
+carousell.sg##.D_abq 
+! carousell.sg vendors
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(CreationsFurniture))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(leinfotech))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(shiningpc))
@@ -748,6 +751,13 @@ carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-t
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(isellcarshades))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(citrimobilesg))
 carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(xinfurnishing))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(reallycheapshop))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(xdiromara))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(performance.pc.pte.ltd))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(keanetobuild.com))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(hypedemand))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(excelsior.systems))
+carousell.sg##div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(tansn2020))
 
 
 
