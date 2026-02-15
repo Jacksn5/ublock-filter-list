@@ -728,7 +728,9 @@ sh.reddit.com###blocking-modal
 www.reservationday.com##.mui-10mtivk.MuiBox-root.AtlasPromoBanner-root
 
 ! promoted content
-carousell.sg##.D_abq 
+carousell.sg##.D_abq
+! carousell online shop banner
+carousell.sg##.D_abR
 ! carousell.sg vendors
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(CreationsFurniture)))
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(leinfotech)))
@@ -760,6 +762,10 @@ carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="list
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(tansn2020)))
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(gravfun)))
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(anythingtechnologika)))
+carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(Percy_liar)))
+carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(techblast)))
+carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(lovelydealz)))
+carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(majestyventureretail)))
 
 
 
