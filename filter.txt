@@ -766,6 +766,8 @@ carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="list
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(techblast)))
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(lovelydealz)))
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(majestyventureretail)))
+carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(cyberart_ad)))
+carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(secondlifepc)))
 
 
 
