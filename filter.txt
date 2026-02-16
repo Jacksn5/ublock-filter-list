@@ -731,6 +731,10 @@ www.reservationday.com##.mui-10mtivk.MuiBox-root.AtlasPromoBanner-root
 carousell.sg##.D_abq
 ! carousell online shop banner
 carousell.sg##.D_abR
+! scam warning
+carousell.sg##.D_cuf
+! top banner
+carousell.sg##.D_aIL.D_aIB
 ! carousell.sg vendors
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(CreationsFurniture)))
 carousell.sg##div:has(> div[data-testid^="listing-card-"]:has([data-testid="listing-card-text-seller-name"]:has-text(leinfotech)))
