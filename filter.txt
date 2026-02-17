@@ -729,6 +729,7 @@ www.reservationday.com##.mui-10mtivk.MuiBox-root.AtlasPromoBanner-root
 
 ! promoted content
 carousell.sg##.D_abq
+carousell.sg##div.M_WN
 ! carousell online shop banner
 carousell.sg##.D_abR
 ! scam warning
