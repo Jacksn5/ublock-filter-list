@@ -727,6 +727,11 @@ sh.reddit.com###blocking-modal
 ! Apr 7, 2025 https://www.reservationday.com
 www.reservationday.com##.mui-10mtivk.MuiBox-root.AtlasPromoBanner-root
 
+! 2026-09-13 Preisjäger Banners
+www.preisjaeger.at###customBannerList-id-34
+www.preisjaeger.at###customBannerList-id-84
+www.preisjaeger.at###customBannerList-id-87
+
 ! promoted content
 carousell.sg##.D_abq
 carousell.sg##div.M_WN
