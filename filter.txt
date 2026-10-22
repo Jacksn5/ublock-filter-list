@@ -1,6 +1,12 @@
 ! Title: Jacksn5 uBlock filter list
 ! Expires: 1 days
 
+! 20 Sept 2026 https://chatgpt.com
+chatgpt.com##div:has(> div > button:has-text(Ads do not influence))
+
+! 21 Oct 2026 https://www.preisjaeger.at
+www.preisjaeger.at##[id^="customBannerList-id-"]
+
 ! 5/28/2018, 9:59:05 AM https://www.netflix.com/browse
 www.netflix.com##.billboard-row
 
