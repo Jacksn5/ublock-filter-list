@@ -1,6 +1,16 @@
 ! Title: Jacksn5 uBlock filter list
 ! Expires: 1 days
 
+! Hide Reddit's app popup
+www.reddit.com##.configured-xpromo-bottom-sheet.configured-xpromo.rpl-bottom-sheet
+
+! Prevent Reddit from reapplying its scroll lock
+www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, html, stay)
+www.reddit.com##+js(rc, rpl-scroll-lock|scroll-is-blocked, body, stay)
+
+! Restore vertical touch scrolling
+www.reddit.com#$#html, body, shreddit-app { overflow-y: scroll !important; -webkit-overflow-scrolling: touch !important; touch-action: pan-y !important; overscroll-behavior: auto !important; }
+
 ! 20 Sept 2026 https://chatgpt.com
 chatgpt.com##div:has(> div > button:has-text(Ads do not influence))
 
